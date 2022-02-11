@@ -4,7 +4,7 @@
   : Django Framework
   : Flask Framework
 - 🌱 I’m currently learning Web App Development & Web Application Security
-- 💞️ I’m looking to collaborate on php framework projects 
+- 💞️ I’m looking to collaborate on python projects 
 - 📫 How to reach me : Email joemuigai004@gmail.com
 
 <!---
