@@ -1,10 +1,8 @@
 - 👋 Hi, I’m @JosephMuigai
-- 👀 I’m interested in back-end development using various frameworks including
-  : Codeigniter FrameWork
-  : Django Framework
-  : Flask Framework
-- 🌱 I’m currently learning Web App Development & Web Application Security
-- 💞️ I’m looking to collaborate on python projects 
+- 👀 I’m interested in back-end development using various web frameworks
+- 🌱 Acquainted with dominant programming languages, protocols, and platforms needed to launch successful
+web applications. 
+- 💞️ I’m looking to collaborate on Python and php projects 
 - 📫 How to reach me : Email joemuigai004@gmail.com
 
 <!---
